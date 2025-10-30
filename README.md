@@ -10,8 +10,13 @@
 
 <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=thermojam&theme=neon&hide_border=true)<br/>
+<div align='center'>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=thermojam&theme=neon&hide_border=true)
+
+</div>
+
+<br/>
 
 #### Technologies
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,git)](https://skillicons.dev)
