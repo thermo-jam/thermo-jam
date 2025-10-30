@@ -1,6 +1,5 @@
 ### Hello, I'm a mobile developer intern (React Native) with a focus on Web3!
 
-<br>
 
 ##### 🟣 Specialization: React Native, TypeScript, mobile UI/UX, and Web3 integration (Ethereum, EVM-compatible networks)
 
@@ -8,11 +7,6 @@
 
 ##### 🟣 The goal: not just to write code, but to create mobile products that solve real problems and give users intuitive access to decentralized services
 
-<div align='center'>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=thermojam&theme=neon&hide_border=true)
-
-</div>
 
 #### Technologies
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,git)](https://skillicons.dev)
